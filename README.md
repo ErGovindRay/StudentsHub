@@ -1,3 +1,6 @@
 # StudentsHub
 This Is  my  first Git Repository
-Hello I am Too Exicted 
+<br>
+Hello I am Too Excited  
+<br>
+Author By - Govind Kumar Ray.
